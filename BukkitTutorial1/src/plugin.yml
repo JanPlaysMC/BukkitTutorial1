@@ -1,0 +1,8 @@
+name: HelloWorld
+version: 1.0
+author: SourceCode
+
+main: de.janplaysmc.tutorial.Main
+
+commands:
+  hello:
